@@ -1,18 +1,17 @@
 # 🌟 Hi there, I'm Midhun Manoharan! 🌟  
 👋 Welcome to my GitHub! I'm a Data Analyst with a Master's in AI & Robotics, passionate about solving problems, unlocking insights, and driving innovation with data. 🚀  
 
-<div style="text-align: justify;">
+ 
 👨‍💻 What I Do  
 🔹 Turn Data into Actionable Insights: Proficient in SQL, Python, and R, I specialize in A/B testing, data modeling, and crafting powerful visualizations using Tableau and Domo.  
 🔹 Build Intelligent Systems: Skilled in machine learning with experience implementing advanced models like CNNs and YOLOv7 to boost system performance.  
 🔹 Collaborate & Lead: From leading a team of 20 to working closely with stakeholders, I thrive in collaborative environments that demand strategic problem-solving.  
-</div>
-<div style="text-align: justify;">
+ 
 🏆 My Achievements  
 🌟 Autonomous Systems: Enhanced perception system accuracy by 20% as Team Lead of the University of Hertfordshire Racing Autonomous team.  
 🌟 Project Leadership: Directed a pilot project for Volvo Trucks, mentoring a team and delivering 95-99% quality documentation.  
 🌟 Data Optimization: Streamlined processes, reducing catalog errors by 15% and improving workflows across projects.  
-</div>
+
 🎨 A Bit About Me  
 When I’m not working with data or models, you’ll find me:  
 📸 Capturing moments through photography  
